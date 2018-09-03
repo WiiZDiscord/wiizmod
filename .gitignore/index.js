@@ -13,7 +13,7 @@ var prefix = '/';
 
 //var servers = {};
 
-client.login("NDgwMzYzOTQwMTc0NDk1NzY0.DmX9IQ.TDloIL4XFhgHCJq_0y3wuFZjM4E");
+client.login("process.env.TOKEN");
 
 //function play(connection, message) {
 //    var server = servers[message.guild.id];
