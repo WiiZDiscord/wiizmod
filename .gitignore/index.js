@@ -13,7 +13,7 @@ var prefix = '/';
 
 //var servers = {};
 
-client.login("process.env.TOKEN");
+client.login(process.env.TOKEN);
 
 //function play(connection, message) {
 //    var server = servers[message.guild.id];
